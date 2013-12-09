@@ -1,0 +1,29 @@
+{
+	"name": "tiny-logger",
+	"version": "0.0.1",
+	"description": "a light weight tiny logger with log level",
+	"main": "tiny-logger.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/akhoury/tiny-logger"
+	},
+	"keywords": [
+		"logger",
+		"tiny",
+		"lite",
+		"light",
+		"log",
+		"level"
+	],
+	"author": {
+		"name": "akhoury",
+		"email": "bentael@gmail.com"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/akhoury/tiny-logger/issues"
+	}
+}
