@@ -26,6 +26,9 @@ module.exports = {
 	log: function() {
 		console.log(arguments);
 	},
+	raw: function(s) {
+		console.log(s);
+	},
 	error: function(s) {
 		console.log(this.p + "[error] " + s);
 	},

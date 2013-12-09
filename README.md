@@ -20,9 +20,12 @@ logger.error('something to error');
 // [my-prefix][error] something debug
 
 // or without a prefix, or a tag
+logger.raw('hai');
+// hai
+
 // you can use the usual console.log arguments here
 // i tend to never do
-logger.log('free style');
+logger.log('free', 'style');
 // free style
 
 ```
